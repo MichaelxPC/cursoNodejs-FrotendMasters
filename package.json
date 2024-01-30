@@ -1,0 +1,23 @@
+{
+  "name": "curso-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "bin": {
+    "note": "/index.js",
+    "testlog": "/import-exports/indexImport.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^17.7.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}

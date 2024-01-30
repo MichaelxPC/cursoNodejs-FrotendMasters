@@ -1,0 +1,28 @@
+{
+  "notes": [
+    {
+      "tags": [
+        "trabajo",
+        " social"
+      ],
+      "content": "hola",
+      "id": 1706435062113
+    },
+    {
+      "tags": [
+        "diario",
+        " salud",
+        " bienestar"
+      ],
+      "content": "pasear al perro",
+      "id": 1706436670529
+    },
+    {
+      "tags": [
+        "estudio"
+      ],
+      "content": "ir a la universidad ",
+      "id": 1706436684033
+    }
+  ]
+}
